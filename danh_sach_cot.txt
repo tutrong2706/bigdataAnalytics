@@ -1,0 +1,27 @@
+--- TỔNG CỘNG: 26 CỘT ---
+1. station_code
+2. prcp
+3. askq
+4. askkmax
+5. askkmin
+6. bxmt
+7. tempkk
+8. tempds
+9. tmax
+10. tmin
+11. tdsmax
+12. tdsmin
+13. ttdmax
+14. ttdmin
+15. humi
+16. windydirect
+17. windygust
+18. windyspeed
+19. latitude
+20. longitude
+21. elevation
+22. rain_label
+23. month_sin
+24. month_cos
+25. hour_sin
+26. hour_cos
