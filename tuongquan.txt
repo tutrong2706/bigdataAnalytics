@@ -1,0 +1,45 @@
+BẢNG XẾP HẠNG ĐỘ TƯƠNG QUAN PEARSON VỚI RAIN_LABEL
+============================================================
+Hạng   | Tên biến (Feature)        | Độ tương quan (Correlation)
+------------------------------------------------------------
+1      | prcp                      | 0.389179
+2      | pre_prcp                  | 0.295942
+3      | ttdmax                    | 0.190497
+4      | humi                      | 0.179156
+5      | pre_ttdmax                | 0.169810
+6      | ttdmin                    | 0.165002
+7      | pre_humi                  | 0.160091
+8      | pre_ttdmin                | 0.149637
+9      | tempkk                    | 0.141446
+10     | tmin                      | 0.139679
+11     | tempds                    | 0.129250
+12     | tmax                      | 0.128265
+13     | tdsmax                    | 0.125197
+14     | pre_tempds                | 0.123910
+15     | tdsmin                    | 0.122734
+16     | pre_tempkk                | 0.122028
+17     | pre_tdsmin                | 0.121658
+18     | pre_tdsmax                | 0.120711
+19     | pre_tmin                  | 0.115797
+20     | pre_tmax                  | 0.111771
+21     | bxmt                      | 0.085629
+22     | pre_bxmt                  | 0.075782
+23     | month_sin                 | 0.068371
+24     | windydirect               | 0.041553
+25     | pre_windydirect           | 0.039803
+26     | askkmax                   | 0.035008
+27     | askq                      | 0.034949
+28     | askkmin                   | 0.034534
+29     | pre_askq                  | 0.034456
+30     | pre_askkmax               | 0.034347
+31     | pre_askkmin               | 0.033878
+32     | windyspeed                | 0.032752
+33     | pre_windyspeed            | 0.026492
+34     | month_cos                 | 0.025945
+35     | longitude                 | 0.020850
+36     | windygust                 | 0.020017
+37     | elevation                 | 0.018360
+38     | latitude                  | 0.006642
+39     | pre_windygust             | 0.005717
+============================================================
+Tổng số biến hợp lệ: 39
